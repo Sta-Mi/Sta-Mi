@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sta-Mi
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on 12.10
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
